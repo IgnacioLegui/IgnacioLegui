@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Fullstack Development**
 
-- 👨‍💻 All of my projects are available at [https://landing-page-ignacio.netlify.app/](https://landing-page-ignacio.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Landing Page](https://landing-page-ignacio.netlify.app/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
 
