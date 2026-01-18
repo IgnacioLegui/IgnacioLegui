@@ -60,15 +60,15 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=ignaciolegui\&theme=algolia\&show_icons=true\&count_private=true\&include_all_commits=true)
+![](https://github-readme-stats.vercel.app/api?username=IgnacioLegui\&theme=algolia\&show_icons=true\&count_private=true\&include_all_commits=true)
 
 <br>
 
-![](https://github-readme-streak-stats.herokuapp.com?user=ignaciolegui\&theme=dracula)
+![](https://github-readme-streak-stats.herokuapp.com?user=IgnacioLegui\&theme=dracula)
 
 <br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ignaciolegui\&layout=compact\&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacioLegui\&layout=compact\&theme=radical)
 
 </div>
 
