@@ -21,13 +21,14 @@
 
 ---
 
-* 👨‍💻 Backend-oriented Software Developer with experience in Java, Spring, PHP and Laravel.
+   * 👨‍💻 Backend-oriented Software Developer with experience in Java, Spring, PHP and Laravel.
 * 🧩 Strong knowledge of REST APIs, MVC architecture and relational databases.
 * 🌱 Currently improving my skills in backend development, clean code and software architecture.
 * 💬 Feel free to reach out for collaboration, backend projects or job opportunities.
 
 ---
-
+<div align="center">
+   
 ## 🛠  Tech Stack
 
 ### 🔧 Languages
@@ -53,31 +54,15 @@
 ![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-%23FB7A24.svg?style=for-the-badge\&logo=apachefriends\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%23000000.svg?style=for-the-badge\&logo=databricks\&logoColor=white)
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=IgnacioLegui\&theme=algolia\&show_icons=true\&count_private=true\&include_all_commits=true)
-
-<br>
-
-![](https://github-readme-streak-stats.herokuapp.com?user=IgnacioLegui\&theme=dracula)
-
-<br>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacioLegui\&layout=compact\&theme=radical)
-
 </div>
 
 ---
-
-## 🔗  Contact Me
-
 <div align="center">
+   
+## 🔗 Contact Me
 
+</div>
+<div align="center">
 <a href="mailto:leguizamognacio10@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
