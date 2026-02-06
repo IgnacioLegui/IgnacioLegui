@@ -21,10 +21,11 @@
 
 ---
 
-   * 👨‍💻 Backend-oriented Software Developer with experience in Java, Spring, PHP and Laravel.
-* 🧩 Strong knowledge of REST APIs, MVC architecture and relational databases.
-* 🌱 Currently improving my skills in backend development, clean code and software architecture.
-* 💬 Feel free to reach out for collaboration, backend projects or job opportunities.
+* 👨‍💻 Backend-oriented Software Developer and IT Management Student at UADE.
+* 🧩 Expertise in Java (Spring), Software Architecture, and Agile Methodologies.
+* ⚙️ Focused on creating efficient, scalable backend solutions and functional systems design.
+* 🌱 Currently deep-diving into Clean Architecture, Design Patterns, and Project Management.
+* 💬 Feel free to reach out for collaboration on backend projects or architectural challenges.
 
 ---
 <div align="center">
@@ -83,6 +84,6 @@
 
 ---
 
-<h6 align="center">Open to new opportunities · Backend & Full Stack roles</h6>
+<h6 align="center">Open to new opportunities · IT Project Management · Software Development</h6>
 
 ---
