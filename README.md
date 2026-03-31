@@ -21,18 +21,18 @@
 
 ---
 
-* 👨‍💻 Backend-oriented Software Developer and IT Management Student at UADE.
-* 🧩 Expertise in Java (Spring), Software Architecture, and Agile Methodologies.
-* ⚙️ Focused on creating efficient, scalable backend solutions and functional systems design.
-* 🌱 Currently deep-diving into Clean Architecture, Design Patterns, and Project Management.
-* 💬 Feel free to reach out for collaboration on backend projects or architectural challenges.
+* Backend-oriented Software Developer and IT Management Student at UADE.
+* Expertise in Java (Spring), Software Architecture, and Agile Methodologies.
+* Focused on creating efficient, scalable backend solutions and functional systems design.
+* Currently deep-diving into Clean Architecture, Design Patterns, and Project Management.
+* Feel free to reach out for collaboration on backend projects or architectural challenges.
 
 ---
 <div align="center">
    
-## 🛠  Tech Stack
+## Tech Stack
 
-### 🔧 Languages
+### Languages
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -41,7 +41,7 @@
 
 ---
 
-### 🖥️ Frameworks & Libraries
+### Frameworks & Libraries
 
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -51,7 +51,7 @@
 
 ---
 
-### 🗄️ Databases & Tools
+### Databases & Tools
 
 ![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%23000000.svg?style=for-the-badge&logo=databricks&logoColor=white)
@@ -62,7 +62,7 @@
 ---
 <div align="center">
    
-## 🔗 Contact Me
+## Contact Me
 
 </div>
 <div align="center">
