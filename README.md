@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=560&height=45&lines=Software+Developer;Backend+Oriented+Developer;Java+%26+Spring+Enthusiast;Clean+Architecture+%26+REST+APIs;Always+learning+new+things" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=560&height=45&lines=Software+Developer;Building AI-powered backendsystems;Java+%26+Spring+Enthusiast;Clean+Architecture+%26+REST+APIs;Always+learning+new+things" />
   </a>
 </p>
 
@@ -67,6 +67,6 @@
 
 ---
 
-<h6 align="center">Open to new opportunities · IT Project Management · Software Development</h6>
+<h6 align="center">Open to new opportunities · Backend Development · Applied AI Engineering</h6>
 
 ---
