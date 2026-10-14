@@ -55,7 +55,7 @@
   <a href="https://www.linkedin.com/in/ignaciolegui">
     <img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=flat-square&logo=linkedin&logoColor=0A66C2" />
   </a>
-  <a href="https://ignacioleguizamon.site">
+  <a href="https://ignacioleguizamon.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-1a1b27?style=flat-square&logo=firefox&logoColor=A78BFA" />
   </a>
   <a href="https://github.com/ignaciolegui">
